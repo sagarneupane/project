@@ -1,0 +1,1 @@
+{'name': 'Sagar Neupane', 'class': "Bachelor's Final year", 'symbolno': '074/17032'}
